@@ -52,7 +52,7 @@
             // 
             // MainLength
             // 
-            this.MainLength.Location = new System.Drawing.Point(286, 9);
+            this.MainLength.Location = new System.Drawing.Point(301, 9);
             this.MainLength.Name = "MainLength";
             this.MainLength.Size = new System.Drawing.Size(153, 20);
             this.MainLength.TabIndex = 0;
@@ -87,9 +87,9 @@
             this.label3.ForeColor = System.Drawing.SystemColors.Control;
             this.label3.Location = new System.Drawing.Point(12, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(268, 21);
+            this.label3.Size = new System.Drawing.Size(283, 21);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Количество материала (л или см)";
+            this.label3.Text = "Количество материала при покупке";
             // 
             // label4
             // 
@@ -98,9 +98,9 @@
             this.label4.ForeColor = System.Drawing.SystemColors.Control;
             this.label4.Location = new System.Drawing.Point(12, 61);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(271, 21);
+            this.label4.Size = new System.Drawing.Size(192, 21);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Затраченный материал (л или см)";
+            this.label4.Text = "Затраченный материал";
             // 
             // label5
             // 
@@ -148,7 +148,7 @@
             // 
             // PlasticCost
             // 
-            this.PlasticCost.Location = new System.Drawing.Point(286, 35);
+            this.PlasticCost.Location = new System.Drawing.Point(301, 35);
             this.PlasticCost.Name = "PlasticCost";
             this.PlasticCost.Size = new System.Drawing.Size(153, 20);
             this.PlasticCost.TabIndex = 9;
@@ -156,7 +156,7 @@
             // 
             // PrintLength
             // 
-            this.PrintLength.Location = new System.Drawing.Point(286, 61);
+            this.PrintLength.Location = new System.Drawing.Point(301, 61);
             this.PrintLength.Name = "PrintLength";
             this.PrintLength.Size = new System.Drawing.Size(153, 20);
             this.PrintLength.TabIndex = 10;
@@ -164,7 +164,7 @@
             // 
             // PrintTime
             // 
-            this.PrintTime.Location = new System.Drawing.Point(285, 115);
+            this.PrintTime.Location = new System.Drawing.Point(300, 115);
             this.PrintTime.Name = "PrintTime";
             this.PrintTime.Size = new System.Drawing.Size(153, 20);
             this.PrintTime.TabIndex = 11;
@@ -172,7 +172,7 @@
             // 
             // E_Eat
             // 
-            this.E_Eat.Location = new System.Drawing.Point(286, 141);
+            this.E_Eat.Location = new System.Drawing.Point(301, 141);
             this.E_Eat.Name = "E_Eat";
             this.E_Eat.Size = new System.Drawing.Size(153, 20);
             this.E_Eat.TabIndex = 12;
@@ -180,7 +180,7 @@
             // 
             // E_Cost
             // 
-            this.E_Cost.Location = new System.Drawing.Point(286, 167);
+            this.E_Cost.Location = new System.Drawing.Point(301, 167);
             this.E_Cost.Name = "E_Cost";
             this.E_Cost.Size = new System.Drawing.Size(153, 20);
             this.E_Cost.TabIndex = 13;
@@ -188,7 +188,7 @@
             // 
             // Profit
             // 
-            this.Profit.Location = new System.Drawing.Point(285, 222);
+            this.Profit.Location = new System.Drawing.Point(300, 222);
             this.Profit.Name = "Profit";
             this.Profit.Size = new System.Drawing.Size(153, 20);
             this.Profit.TabIndex = 14;
@@ -207,7 +207,7 @@
             // TranslateBtn
             // 
             this.TranslateBtn.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TranslateBtn.Location = new System.Drawing.Point(445, 135);
+            this.TranslateBtn.Location = new System.Drawing.Point(460, 135);
             this.TranslateBtn.Name = "TranslateBtn";
             this.TranslateBtn.Size = new System.Drawing.Size(193, 27);
             this.TranslateBtn.TabIndex = 16;
